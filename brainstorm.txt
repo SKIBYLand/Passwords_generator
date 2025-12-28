@@ -1,0 +1,9 @@
+Create a Passwords generator:
+    --> Principles:
+        -Create top secured passwords;
+        -Possibility of saving generated passwords.
+    --> Features:
+        -The user can define the length;
+        -The user can define the structure (special characters included/not)
+    --> Extra:
+        -Can evaluate the strenght of a given password.
