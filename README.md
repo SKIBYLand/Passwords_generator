@@ -3,7 +3,7 @@
 PasswordMe — simple password generator and manager.
 
 ## Downloads
-- Releases (recommended): 
+- Releases (recommended): https://github.com/SKIBYLand/Passwords_generator/releases/tag/v1.0.0
 - Direct (in-repo): `dist/Dmg_version/PasswordMe.dmg` (macOS DMG)
 
 ## macOS (DMG installer)
