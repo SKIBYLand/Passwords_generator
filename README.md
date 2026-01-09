@@ -1,10 +1,14 @@
 # PasswordMe
 
-PasswordMe — simple password generator and manager.
+PasswordMe — simple & SECURE password generator and manager. 
+
+**100% free** ⭐️ **100% secure** 🔒 (use apple Keychain process).
+
+*No need of internet connection but can loose generated passwords after deinstallation as it is offline app (logic 🙂).*
 
 ## Downloads
-- Releases (recommended): https://github.com/SKIBYLand/Passwords_generator/releases/tag/v1.0.0
-- Direct (in-repo): `dist/Dmg_version/PasswordMe.dmg` (macOS DMG)
+- Releases (recommended): [macOS dmg](https://github.com/SKIBYLand/Passwords_generator/releases/tag/v1.0.0)
+- Direct (in-repo): `dist/Dmg_version/PasswordMe.dmg` (macOS DMG) or 👉 [file_path](dist/Dmg_version)
 
 ## macOS (DMG installer)
 - The macOS installer is available as `dist/Dmg_version/PasswordMe.dmg`.
