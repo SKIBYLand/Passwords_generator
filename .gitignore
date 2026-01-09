@@ -7,4 +7,9 @@
 /Upload
 /build
 /pwdme-icon.icns
-/pwdme-icon.ico
+/pwdme-icon.ico# Ignore generated dist artifacts (keep DMG)
+dist/PasswordMe
+dist/PasswordMe.app/
+dist/PasswordMe.exe
+dist/PasswordMe.exe.app/
+!dist/Dmg_version/PasswordMe.dmg
