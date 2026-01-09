@@ -20,8 +20,8 @@ PasswordMe — simple & SECURE password generator and manager.
 ## Verify checksum
 - macOS / Linux: `shasum -a 256 dist/Dmg_version/PasswordMe.dmg`
 
-## Windows / Other
-- See the Releases page for Windows executable and other assets.
+## Windows / Other (use the windows credentials)
+- See the Releases page for Windows executable 👉([.exe](https://github.com/SKIBYLand/Passwords_generator/releases/tag/v1.0.0)) .
 
 ---
 
