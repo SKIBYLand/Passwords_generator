@@ -1,3 +1,5 @@
+# macOS Finder files
+.DS_Store
 /.DS_Store
 /.venv
 /PasswordMe.exe.spec
